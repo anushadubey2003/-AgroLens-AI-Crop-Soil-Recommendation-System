@@ -1,0 +1,6 @@
+soil_type,ph,rainfall,temperature,crop
+Loamy,6.5,100,25,Wheat
+Sandy,7.0,80,30,Corn
+Clay,5.5,120,22,Rice
+Silty,6.0,90,26,Barley
+Peaty,6.8,110,24,Potato
